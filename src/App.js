@@ -7,6 +7,7 @@ import HeaderComponent from './components/HeaderComponent';
 import FooterComponent from './components/FooterComponent';
 import { BrowserRouter as Router, Switch, Route, Routes } from "react-router-dom";
 
+
 function App() {
   return (
     <div>
